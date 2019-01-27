@@ -1,0 +1,8 @@
+# Ignore temp files
+*~
+
+# Ignore other junk files
+*.backup
+*.kate-swp
+*.swp
+
